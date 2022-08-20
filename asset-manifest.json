@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/github.io/movies/static/js/main.7970b962.js",
-    "index.html": "/github.io/movies/index.html",
-    "main.7970b962.js.map": "/github.io/movies/static/js/main.7970b962.js.map"
+    "main.js": "/movies/static/js/main.f9e48d6e.js",
+    "index.html": "/movies/index.html",
+    "main.f9e48d6e.js.map": "/movies/static/js/main.f9e48d6e.js.map"
   },
   "entrypoints": [
-    "static/js/main.7970b962.js"
+    "static/js/main.f9e48d6e.js"
   ]
 }
